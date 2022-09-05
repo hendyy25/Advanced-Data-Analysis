@@ -1,4 +1,3 @@
-
 # Advanced Data Analysis
 
 This repository contains data science projects and their discriptions. It is composed of:
