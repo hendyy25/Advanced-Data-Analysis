@@ -3,7 +3,7 @@
 
 This repository contains data science projects and their discriptions. It is composed of:
 
-## - [MySQL Project](https://github.com/hendyy25/Advanced-Data-Analysis/tree/main/SQL)
+## [MySQL Project](https://github.com/hendyy25/Advanced-Data-Analysis/tree/main/SQL)
 I learned MySQL from an online course. I finally worked on a database and created a report for how the company can improve its business decisions. Some of the topics are:
 * Knowledge about SQL basics for working with a single table. You will learn tdhe key commands to filter a table in many different ways. 
 * How to combine data from multiple tables together.
